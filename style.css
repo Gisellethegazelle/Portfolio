@@ -1,0 +1,47 @@
+header {
+  min-height: 100vh;
+  margin-top: 55px;
+  background-image: url('https://cdn.shopify.com/s/files/1/1003/7610/products/Pastel_blue_and_pink_marble_Wall_Mural_Wallpaper_a.jpg?v=1526986217');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #00000;
+}
+
+main {
+  scroll-behavior: smooth;
+}
+
+section {
+  align-items: center;
+}
+
+.row {
+  margin: 0 !important;
+}
+
+#portfolio {
+  background-color: teal;
+    color: white;
+  justify-content: center;
+}
+
+.portfolio-item {
+  width: 30%;
+  margin: 10px;
+}
+
+#about {
+  background-color: green;
+  color: white;
+}
+
+#about img {
+  border-radius: 50%;
+  height: 64%;
+  width:100%;
+}
+
